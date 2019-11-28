@@ -6,15 +6,15 @@
 <img src="https://github.com/pfglobal/public/blob/master/physical/mxl/mxl_360.jpg?raw=true" height="600" />
 </p>
 
-### Printed in PLA, it's sturdy enough to not snap but flexbile enough to allow the cable to slip in. 100% infill, 0.1 Layer Height.
+#### Printed in PLA, it's sturdy enough to not snap but flexbile enough to allow the cable to slip in. 100% infill, 0.1 Layer Height.
 
-### This is the version that doesn't need any support when being printed, but does have rather weak points around the screw hole
+#### This is the version that doesn't need any support when being printed, but does have rather weak points around the screw hole
 
 <p style="text-align: center;">
 <img src="https://github.com/pfglobal/public/blob/master/physical/mxl/mxl_360_straight.png?raw=true" height="400" />
 </p>
 
-### This is the version that needs support to be printed but is a lot stronger.
+#### This is the version that needs support to be printed but is a lot stronger.
 
 <p align="center"><img src="https://github.com/pfglobal/public/blob/master/physical/mxl/mxl_360_round.png?raw=true" height="400" />
 </p>
