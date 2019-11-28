@@ -10,7 +10,7 @@
 
 #### This is the version that doesn't need any support when being printed, but does have rather weak points around the screw hole
 
-<p style="text-align: center;">
+<p align="center">
 <img src="https://github.com/pfglobal/public/blob/master/physical/mxl/mxl_360_straight.png?raw=true" height="400" />
 </p>
 
