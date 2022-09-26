@@ -6,7 +6,7 @@
     "acceptableScreenSharingUsage": true,
     "aggressiveUserExperience": true,
     "aggressiveUserFullScreenExperience": true,
-    "asynchronousSoftwareUpdate": true,
+    "asynchronousSoftwareUpdate": false,
     "attemptToBlockApplicationLaunches": false,
     "attemptToFetchMajorUpgrade": true,
     "blockedApplicationBundleIDs": [],
