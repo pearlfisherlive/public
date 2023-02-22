@@ -78,8 +78,8 @@
     "forceFallbackLanguage": false,
     "forceScreenShotIcon": true,
     "showDeferralCount": true,
-    "iconDarkPath": "https://github.com/pearlfisherlive/public/raw/master/PF_ID_Master_Logo_WhiteonBlack_RGB.png",
-    "iconLightPath": "https://github.com/pearlfisherlive/public/raw/master/PF_ID_Master_Logo_BlackonWhite_RGB.png",
+    "iconDarkPath": "/Library/Application Support/Pearlfisher/icons/Pearlfisher Toolkit.png",
+    "iconLightPath": "/Library/Application Support/Pearlfisher/icons/Pearlfisher Toolkit.png",
     "simpleMode": false,
     "singleQuitButton": false,
     "updateElements": [
