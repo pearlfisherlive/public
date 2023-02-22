@@ -76,7 +76,7 @@
   "userInterface": {
     "fallbackLanguage": "en",
     "forceFallbackLanguage": false,
-    "forceScreenShotIcon": true,
+    "forceScreenShotIcon": false,
     "showDeferralCount": true,
     "iconDarkPath": "/Library/Application Support/Pearlfisher/icons/Pearlfisher Toolkit.png",
     "iconLightPath": "/Library/Application Support/Pearlfisher/icons/Pearlfisher Toolkit.png",
