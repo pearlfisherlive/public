@@ -6,7 +6,7 @@
     "acceptableScreenSharingUsage": true,
     "aggressiveUserExperience": true,
     "aggressiveUserFullScreenExperience": true,
-    "asynchronousSoftwareUpdate": false,
+    "asynchronousSoftwareUpdate": true,
     "attemptToBlockApplicationLaunches": false,
     "attemptToFetchMajorUpgrade": true,
     "blockedApplicationBundleIDs": [],
@@ -14,6 +14,18 @@
     "terminateApplicationsOnLaunch": false
   },
   "osVersionRequirements": [
+    {
+      "aboutUpdateURL_disabled": "https://support.apple.com/en-us/HT213268",
+      "aboutUpdateURLs": [
+        {
+          "_language": "en",
+          "aboutUpdateURL": "https://support.apple.com/en-us/HT213268"
+        }
+      ],
+      "requiredInstallationDate": "2023-03-08T23:30:00",
+      "requiredMinimumOSVersion": "13.2.1",
+      "targetedOSVersionsRule": "13"
+    },
     {
       "aboutUpdateURL_disabled": "https://support.apple.com/en-us/HT212585",
       "aboutUpdateURLs": [
@@ -23,9 +35,22 @@
         }
       ],
       "majorUpgradeAppPath": "/Applications/Install macOS Monterey.app",
-      "requiredInstallationDate": "2022-10-14T00:00:00Z",
-      "requiredMinimumOSVersion": "12.7",
-      "targetedOSVersionsRule": "default"
+      "requiredInstallationDate": "2023-02-03T20:00:00",
+      "requiredMinimumOSVersion": "12.6.1",
+      "targetedOSVersionsRule": "12"
+    },
+    {
+      "aboutUpdateURL_disabled": "https://support.apple.com/en-us/HT212585",
+      "aboutUpdateURLs": [
+        {
+          "_language": "en",
+          "aboutUpdateURL": "https://support.apple.com/en-us/HT212585"
+        }
+      ],
+      "majorUpgradeAppPath": "/Applications/Install macOS Monterey.app",
+      "requiredInstallationDate": "2023-02-03T20:00:00Z",
+      "requiredMinimumOSVersion": "12.6.2",
+      "targetedOSVersionsRule": "11"
     }
   ],
   "userExperience": {
