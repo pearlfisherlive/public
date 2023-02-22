@@ -78,8 +78,8 @@
     "forceFallbackLanguage": false,
     "forceScreenShotIcon": false,
     "showDeferralCount": true,
-    "iconDarkPath": "/Library/Application Support/Pearlfisher/icons/Pearlfisher Toolkit.png",
-    "iconLightPath": "/Library/Application Support/Pearlfisher/icons/Pearlfisher Toolkit.png",
+    "iconDarkPath": "/Library/Application Support/Pearlfisher/logo-pearlfisher-macosappicon.png",
+    "iconLightPath": "/Library/Application Support/Pearlfisher/logo-pearlfisher-macosappicon.png",
     "simpleMode": false,
     "singleQuitButton": false,
     "updateElements": [
