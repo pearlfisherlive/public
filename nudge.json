@@ -15,6 +15,19 @@
   },
   "osVersionRequirements": [
     {
+      "aboutUpdateURL_disabled": "https://support.apple.com/en-us/HT213268",
+      "aboutUpdateURLs": [
+        {
+          "_language": "en",
+          "aboutUpdateURL": "https://support.apple.com/en-us/HT213268"
+        }
+      ],
+      "majorUpgradeAppPath": "/Applications/Install macOS Ventura.app",
+      "requiredInstallationDate": "2023-03-08T23:30:00Z",
+      "requiredMinimumOSVersion": "13.2.1",
+      "targetedOSVersionsRule": "13"
+    },
+    {
       "aboutUpdateURL_disabled": "https://support.apple.com/en-us/HT212585",
       "aboutUpdateURLs": [
         {
@@ -64,32 +77,26 @@
     "fallbackLanguage": "en",
     "forceFallbackLanguage": false,
     "forceScreenShotIcon": false,
-    "iconDarkPath": "/somewhere/logoDark.png",
-    "iconLightPath": "/somewhere/logoLight.png",
-    "screenShotDarkPath": "/somewhere/screenShotDark.png",
-    "screenShotLightPath": "/somewhere/screenShotLight.png",
     "showDeferralCount": true,
+    "iconDarkPath": "/Library/Application Support/Pearlfisher/logo-pearlfisher-macosappicon.png",
+    "iconLightPath": "/Library/Application Support/Pearlfisher/logo-pearlfisher-macosappicon.png",
     "simpleMode": false,
     "singleQuitButton": false,
     "updateElements": [
       {
         "_language": "en",
-        "actionButtonText": "Update Device",
+        "actionButtonText": "Update Now",
         "customDeferralButtonText": "Custom",
-        "customDeferralDropdownText": "Defer",
+        "customDeferralDropdownText": "Later",
         "informationButtonText": "More Info",
-        "mainContentHeader": "Updates can take up to an hour to complete",
         "mainContentNote": "Important Notes",
-        "mainContentSubHeader": "Might be wise to run this during your lunch break or when you get home!",
-        "mainContentText": "A fully up-to-date device is required to ensure that IT can accurately protect your device.\n\nIf you do not update your device by the deadline, this message will become more persistent.\n\nTo begin the update, simply click on the Update Device button and follow the provided steps.",
+        "mainContentText": "A security update is urgently required for your Mac to fix a major security flaw in the version of macOS you currently have installed.\n\nA fully up-to-date device is required to ensure that IT can accurately protect your device.\n\nIf you do not update your device by the deadline, this message will become more persistent. If you can't do this right now, click on Defer at the bottom right of this window.\n\nTo begin the update, simply click on the Update Device button and follow the provided steps.\n\n\nThanks, Pearlfisher IT",
         "mainHeader": "Your device requires a security update",
         "oneDayDeferralButtonText": "One Day",
         "oneHourDeferralButtonText": "One Hour",
         "primaryQuitButtonText": "Later",
         "secondaryQuitButtonText": "I understand",
-        "subHeader": "Your device will restart during this update "
       }
     ]
   }
 }
-
