@@ -23,7 +23,7 @@
         }
       ],
       "majorUpgradeAppPath": "/Applications/Install macOS Ventura.app",
-      "requiredInstallationDate": "2023-11-03T23:30:00Z",
+      "requiredInstallationDate": "2023-11-03T22:00:00Z",
       "requiredMinimumOSVersion": "13.6",
       "targetedOSVersionsRule": "13"
     },
@@ -36,7 +36,7 @@
         }
       ],
       "majorUpgradeAppPath": "/Applications/Install macOS Monterey.app",
-      "requiredInstallationDate": "2023-11-03T20:00:00Z",
+      "requiredInstallationDate": "2023-11-03T22:00:00Z",
       "requiredMinimumOSVersion": "12.7",
       "targetedOSVersionsRule": "12"
     },
@@ -49,7 +49,7 @@
         }
       ],
       "majorUpgradeAppPath": "/Applications/Install macOS Monterey.app",
-      "requiredInstallationDate": "2023-11-03T20:00:00Z",
+      "requiredInstallationDate": "2023-11-03T22:00:00Z",
       "requiredMinimumOSVersion": "12.7",
       "targetedOSVersionsRule": "11"
     }
