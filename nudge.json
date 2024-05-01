@@ -22,7 +22,7 @@
           "aboutUpdateURL": "https://support.apple.com/en-us/109035"
         }
       ],
-      "majorUpgradeAppPath": "/Applications/Install macOS Sonoma.app",
+      "majorUpgradeAppPath": "/System/Library/PreferencePanes/Softwareupdate.prefpane",
       "requiredInstallationDate": "2024-05-17T22:00:00Z",
       "requiredMinimumOSVersion": "14.4",
       "targetedOSVersionsRule": "14"
@@ -35,9 +35,9 @@
           "aboutUpdateURL": "https://support.apple.com/en-us/HT213268"
         }
       ],
-      "majorUpgradeAppPath": "/Applications/Install macOS Ventura.app",
+      "majorUpgradeAppPath": "/System/Library/PreferencePanes/Softwareupdate.prefpane",
       "requiredInstallationDate": "2024-05-17T22:00:00Z",
-      "requiredMinimumOSVersion": "13.6",
+      "requiredMinimumOSVersion": "13.6.6",
       "targetedOSVersionsRule": "13"
     },
     {
@@ -48,7 +48,7 @@
           "aboutUpdateURL": "https://support.apple.com/en-us/109035"
         }
       ],
-      "majorUpgradeAppPath": "/Applications/Install macOS Sonoma.app",
+      "majorUpgradeAppPath": "/System/Library/PreferencePanes/Softwareupdate.prefpane",
       "requiredInstallationDate": "2024-05-17T22:00:00Z",
       "requiredMinimumOSVersion": "14.4",
       "targetedOSVersionsRule": "12"
