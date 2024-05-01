@@ -14,6 +14,19 @@
     "terminateApplicationsOnLaunch": false
   },
   "osVersionRequirements": [
+     {
+      "aboutUpdateURL_disabled": "https://support.apple.com/en-us/109035",
+      "aboutUpdateURLs": [
+        {
+          "_language": "en",
+          "aboutUpdateURL": "https://support.apple.com/en-us/109035"
+        }
+      ],
+      "majorUpgradeAppPath": "/System/Library/PreferencePanes/Softwareupdate.prefpane",
+      "requiredInstallationDate": "2024-05-17T22:00:00Z",
+      "requiredMinimumOSVersion": "14.4",
+      "targetedOSVersionsRule": "14"
+    },
     {
       "aboutUpdateURL_disabled": "https://support.apple.com/en-us/HT213268",
       "aboutUpdateURLs": [
@@ -22,35 +35,35 @@
           "aboutUpdateURL": "https://support.apple.com/en-us/HT213268"
         }
       ],
-      "majorUpgradeAppPath": "/Applications/Install macOS Ventura.app",
-      "requiredInstallationDate": "2023-11-03T23:30:00Z",
-      "requiredMinimumOSVersion": "13.6",
+      "majorUpgradeAppPath": "/System/Library/PreferencePanes/Softwareupdate.prefpane",
+      "requiredInstallationDate": "2024-05-17T22:00:00Z",
+      "requiredMinimumOSVersion": "13.6.6",
       "targetedOSVersionsRule": "13"
     },
     {
-      "aboutUpdateURL_disabled": "https://support.apple.com/en-us/HT212585",
+      "aboutUpdateURL_disabled": "https://support.apple.com/en-us/109035",
       "aboutUpdateURLs": [
         {
           "_language": "en",
-          "aboutUpdateURL": "https://support.apple.com/en-us/HT212585"
+          "aboutUpdateURL": "https://support.apple.com/en-us/109035"
         }
       ],
-      "majorUpgradeAppPath": "/Applications/Install macOS Monterey.app",
-      "requiredInstallationDate": "2023-11-03T20:00:00Z",
-      "requiredMinimumOSVersion": "12.7",
+      "majorUpgradeAppPath": "/System/Library/PreferencePanes/Softwareupdate.prefpane",
+      "requiredInstallationDate": "2024-05-17T22:00:00Z",
+      "requiredMinimumOSVersion": "14.4",
       "targetedOSVersionsRule": "12"
     },
     {
-      "aboutUpdateURL_disabled": "https://support.apple.com/en-us/HT212585",
+      "aboutUpdateURL_disabled": "https://support.apple.com/en-us/109035",
       "aboutUpdateURLs": [
         {
           "_language": "en",
-          "aboutUpdateURL": "https://support.apple.com/en-us/HT212585"
+          "aboutUpdateURL": "https://support.apple.com/en-us/109035"
         }
       ],
-      "majorUpgradeAppPath": "/Applications/Install macOS Monterey.app",
-      "requiredInstallationDate": "2023-02-03T20:00:00Z",
-      "requiredMinimumOSVersion": "12.7",
+      "majorUpgradeAppPath": "/Applications/Install macOS Sonoma.app",
+      "requiredInstallationDate": "2024-05-17T22:00:00Z",
+      "requiredMinimumOSVersion": "14.4",
       "targetedOSVersionsRule": "11"
     }
   ],
@@ -90,7 +103,7 @@
         "customDeferralDropdownText": "Later",
         "informationButtonText": "More Info",
         "mainContentNote": "Important Notes",
-        "mainContentText": "A security update is urgently required for your Mac to fix a major security flaw in the version of macOS you currently have installed.\n\nA fully up-to-date device is required to ensure that IT can accurately protect your device.\n\nIf you do not update your device by the deadline, this message will become more persistent. If you can't do this right now, click on Defer at the bottom right of this window.\n\nTo begin the update, simply click on the Update Device button and follow the provided steps.\n\n\nThanks, Pearlfisher IT",
+        "mainContentText": "An update is urgently required for your Mac to fix security issues and to also improve the performance of the version of macOS you currently have installed.\n\nA fully up-to-date device is required to ensure that IT can effectively protect and secure our data.\n\nIf you do not update your device by the deadline, this message will become more persistent. If you can't do this right now, click on Defer at the bottom right of this window.\n\nTo begin the update, simply click on the Update Device button and follow the provided steps.\n\n\nThanks, Pearlfisher IT",
         "mainHeader": "Your device requires a security update",
         "oneDayDeferralButtonText": "One Day",
         "oneHourDeferralButtonText": "One Hour",
@@ -100,4 +113,3 @@
     ]
   }
 }
-
