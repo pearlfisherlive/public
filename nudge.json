@@ -8,8 +8,9 @@
     "aggressiveUserFullScreenExperience": true,
     "asynchronousSoftwareUpdate": true,
     "attemptToBlockApplicationLaunches": false,
-    "attemptToFetchMajorUpgrade": true,
+    "attemptToFetchMajorUpgrade": false,
     "blockedApplicationBundleIDs": [],
+    "disableSoftwareUpdateWorkflow": true,
     "enforceMinorUpdates": true,
     "terminateApplicationsOnLaunch": false
   },
@@ -99,6 +100,7 @@
       {
         "_language": "en",
         "actionButtonText": "Update Now",
+        "actionButtonPath": "/Applications/Install macOS Sonoma.app",
         "customDeferralButtonText": "Custom",
         "customDeferralDropdownText": "Later",
         "informationButtonText": "More Info",
