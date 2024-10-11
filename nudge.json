@@ -24,8 +24,8 @@
         }
       ],
       "majorUpgradeAppPath": "/System/Library/CoreServices/Software Update.app",
-      "requiredInstallationDate": "2024-05-17T22:00:00Z",
-      "requiredMinimumOSVersion": "14.4.1",
+      "requiredInstallationDate": "2024-10-25T22:00:00Z",
+      "requiredMinimumOSVersion": "14.7",
       "targetedOSVersionsRule": "14"
     },
     {
@@ -37,8 +37,8 @@
         }
       ],
       "majorUpgradeAppPath": "/System/Library/CoreServices/Software Update.app",
-      "requiredInstallationDate": "2024-05-17T22:00:00Z",
-      "requiredMinimumOSVersion": "13.6.6",
+      "requiredInstallationDate": "2024-10-25T22:00:00Z",
+      "requiredMinimumOSVersion": "14.7",
       "targetedOSVersionsRule": "13"
     },
     {
@@ -50,8 +50,8 @@
         }
       ],
       "majorUpgradeAppPath": "/Applications/Install macOS Sonoma.app",
-      "requiredInstallationDate": "2024-05-17T22:00:00Z",
-      "requiredMinimumOSVersion": "14.4.1",
+      "requiredInstallationDate": "2024-10-25T22:00:00Z",
+      "requiredMinimumOSVersion": "14.7",
       "targetedOSVersionsRule": "12"
     },
     {
@@ -63,8 +63,8 @@
         }
       ],
       "majorUpgradeAppPath": "/Applications/Install macOS Sonoma.app",
-      "requiredInstallationDate": "2024-05-17T22:00:00Z",
-      "requiredMinimumOSVersion": "14.4.1",
+      "requiredInstallationDate": "2024-10-25T22:00:00Z",
+      "requiredMinimumOSVersion": "14.7",
       "targetedOSVersionsRule": "11"
     }
   ],
