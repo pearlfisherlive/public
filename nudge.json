@@ -14,7 +14,20 @@
     "enforceMinorUpdates": true,
     "terminateApplicationsOnLaunch": false
   },
-  "osVersionRequirements": [
+  "osVersionRequirements": [ 
+    {
+      "aboutUpdateURL_disabled": "https://support.apple.com/en-us/120283",
+      "aboutUpdateURLs": [
+        {
+          "_language": "en",
+          "aboutUpdateURL": "https://support.apple.com/en-us/120283"
+        }
+      ],
+      "majorUpgradeAppPath": "/System/Library/CoreServices/Software Update.app",
+      "requiredInstallationDate": "2024-11-08T22:00:00Z",
+      "requiredMinimumOSVersion": "15.1",
+      "targetedOSVersionsRule": "15"
+    },
      {
       "aboutUpdateURL_disabled": "https://support.apple.com/en-us/109035",
       "aboutUpdateURLs": [
